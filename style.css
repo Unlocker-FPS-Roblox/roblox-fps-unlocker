@@ -114,8 +114,7 @@ nav ul li a:hover::after {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(10, 15, 30, 0.9)), 
-              url('https://i.imgur.com/aVS3N1k.jpg');
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(10, 15, 30, 0.9));
   background-size: cover;
   background-position: center;
   color: white;
